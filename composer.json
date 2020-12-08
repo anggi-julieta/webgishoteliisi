@@ -1,0 +1,13 @@
+{
+    "name": "lenovo/webgishoteliisi",
+    "description": "untuk github",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "anggi-julieta",
+            "email": "anggijulieta66@gmail.com"
+        }
+    ],
+    "require": {}
+}
