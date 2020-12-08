@@ -1,5 +1,5 @@
         var map;
-        var server = ipServerHotel;
+        var server = https://anggijulieta28webgishoteliisi.herokuapp.com/;
         var cekRadiusStatus = "off";   //RADIUS
         var circles = []; //RADIUS
         var rad; //RADIUS
