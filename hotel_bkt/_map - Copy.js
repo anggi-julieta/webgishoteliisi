@@ -1,5 +1,5 @@
         var map;
-        var server = "https://anggijulieta28webgishoteliisi.herokuapp.com/";
+        var server = "https://anggijulieta28webgishoteliisi.herokuapp.com/hotel_bkt/";
         var cekRadiusStatus = "off";   //RADIUS
         var circles = []; //RADIUS
         var rad; //RADIUS
